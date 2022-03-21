@@ -4,9 +4,8 @@
 |Method|URL|
 |:--:|:-:|
 |**POST**|```https://32c0w7t15f.execute-api.ap-northeast-2.amazonaws.com/Stage/enhance```|
-<br>
 
-## Test Code for Performance
+### Test Code for Performance
 <a href="https://colab.research.google.com/drive/1aRHoHbmyzDOSWL589AarI2rm5O8oqJfx?usp=sharing">
   <img alt="Google Colab" src="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Google Colab&logoColor=white">
 </a><br><br>
@@ -23,7 +22,13 @@
   }
 }
 ```
-Audio data is binary data. however, JSON is used when making a request. JSON is a text format that does **not directly support binary data**, so you will **need to convert such binary data into text using Base64 encoding**.<br><br>
+Audio data is binary data. however, JSON is used when making a request. JSON is a text format that does **not directly support binary data**, so you will **need to convert such binary data into text using Base64 encoding**.<br>
+
+#### Supported Audio Format
+Click on <a href="https://libsndfile.github.io/libsndfile/formats.html">the this link</a> for more details.
+|Supported Format|
+|-|
+|```.wav```, ```.flac```, ```.aiff```, ```.w64``` ... <a href="https://libsndfile.github.io/libsndfile/formats.html">more</a>|
 
 ## Response body
 ### JSON representation
