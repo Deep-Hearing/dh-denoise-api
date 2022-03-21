@@ -24,11 +24,9 @@
 ```
 Audio data is binary data. however, JSON is used when making a request. JSON is a text format that does **not directly support binary data**, so you will **need to convert such binary data into text using Base64 encoding**.<br>
 
-#### Supported Audio Format
-Click on <a href="https://libsndfile.github.io/libsndfile/formats.html">the this link</a> for more details.
 |Supported Format|
 |-|
-|```.wav```, ```.flac```, ```.aiff```, ```.w64``` ... <a href="https://libsndfile.github.io/libsndfile/formats.html">more</a>|
+|```.wav```, ```.flac```, ```.aiff```, ```.w64``` ... <a href="https://libsndfile.github.io/libsndfile/formats.html">Click on <a href="https://libsndfile.github.io/libsndfile/formats.html">the this link</a> for more details.</a>|
 
 ## Response body
 ### JSON representation
