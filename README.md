@@ -26,7 +26,7 @@ Audio data is binary data. however, JSON is used when making a request. JSON is 
 
 |Supported Format|
 |-|
-|```.wav```, ```.flac```, ```.aiff```, ```.w64``` ... <a href="https://libsndfile.github.io/libsndfile/formats.html">Click on <a href="https://libsndfile.github.io/libsndfile/formats.html">the this link</a> for more details.</a>|
+|```.wav```, ```.flac```, ```.aiff```, ```.w64``` and Click on <a href="https://libsndfile.github.io/libsndfile/formats.html">the this link</a> for more details.|
 
 ## Response body
 ### JSON representation
