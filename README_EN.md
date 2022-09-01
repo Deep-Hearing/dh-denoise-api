@@ -9,16 +9,15 @@
 ## DeepHearing Denoise API Solution Documentation
 
 [한국어](https://github.com/Deep-Hearing/dh-denoise-api/blob/main/README.md) | [Eng](https://github.com/Deep-Hearing/dh-denoise-api/blob/main/README_EN.md)
-<hr>
 
-[딥히어링 공식문서](https://docs.deephearing.com)에 작성되어 있는 내용입니다.
+This is the content written in the [DeepHearing Official Document](https://docs.deephearing.com)
 
-딥히어링 API를 사용하기 위해서 [스튜디오](https://dashboard.deephearing.com)에서 회원가입을 통해 키를 발급받아야 합니다.
+To use the DeepHearing API, you must obtain a key through registration at [Studio](https://dashboard.deephearing.com).
 
 ## Docs
 - [File UPLOAD](https://docs.deephearing.com/docs/api/file-enhance)
 - [JOB STATUS](https://docs.deephearing.com/docs/api/file-job)
 
 ## Github
-- [File UPLOAD](https://github.com/Deep-Hearing/dh-denoise-api/blob/main/FILE_UPLOAD/file-upload-ko.md)
-- [JOB STATUS](https://github.com/Deep-Hearing/dh-denoise-api/blob/main/JOB_STATUS/job-status-ko.md)
+- [File UPLOAD](https://github.com/Deep-Hearing/dh-denoise-api/blob/main/FILE_UPLOAD_KO.md)
+- [JOB STATUS](https://github.com/Deep-Hearing/dh-denoise-api/blob/main/JOB_STATUS_KO.md)
