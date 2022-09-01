@@ -1,15 +1,12 @@
-# DH-Denoise-API
-
-<p align="center">
+<p align="center" style="margin-bottom: 50px">
   <a href="https://deep-hearing.ai" target="_blank" align="center" alt="DeepHearing Logo">
-    <img src="./assets/deephearing.png" height="100">
+    <img src="assets/deephearing.svg" height="120">
   </a>
 </p>
 
 ## DeepHearing Denoise API Solution Documentation
 
 [한국어](https://github.com/Deep-Hearing/dh-denoise-api/blob/main/README.md) | [Eng](https://github.com/Deep-Hearing/dh-denoise-api/blob/main/README_EN.md)
-<hr>
 
 [딥히어링 공식문서](https://docs.deephearing.com)에 작성되어 있는 내용입니다.
 

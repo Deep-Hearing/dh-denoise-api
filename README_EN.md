@@ -1,8 +1,6 @@
-# DH-Denoise-API
-
-<p align="center">
+<p align="center" style="margin-bottom: 50px">
   <a href="https://deep-hearing.ai" target="_blank" align="center" alt="DeepHearing Logo">
-    <img src="./assets/deephearing.png" height="100">
+    <img src="assets/deephearing.svg" height="120">
   </a>
 </p>
 
